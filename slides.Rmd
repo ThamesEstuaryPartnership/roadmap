@@ -1,0 +1,437 @@
+---
+title: "Greater Thames Estuary Fish Migration Roadmap"
+subtitle: "Project summary presenation"
+author: "Wanda Bodnar"
+institute: "Thames Estuary Partnership"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output:
+  xaringan::moon_reader:
+    seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      slideNumberFormat: "%current%/%total%"
+---
+
+
+```{r setup, echo = FALSE, message = FALSE, warning = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+background-image: url(https://www.estuaryedges.co.uk/wp-content/themes/estuary-edges/assets/src/img/thames-estuary-partnership-logo.png)
+background-size: 12%
+background-position: 50% 79%
+class: center, middle, inverse
+.footer[Copyright © 2020 Thames Estuary Partnership]
+
+##Greater Thames Estuary Fish Migration Roadmap
+
+##A short summary
+
+Wanda Bodnar
+
+`r format(Sys.time(), "%d %B, %Y")`
+
+<style>
+h1, h2, h3, h4, h5, p {
+  color: #f3f3f3;
+}
+.inverse {
+  background-color: #101720;
+}
+.inverse h1, .inverse h2, .inverse h3, .inverse h4, .inverse h5, .inverse p {
+  color: #f3f3f3;
+}
+.footer {
+    color: #a5704a;
+    position: fixed;
+    top: 96%;
+    left: 0;
+    text-align: center;
+    width: 100%;
+    font-size:50%;
+}
+<style>
+
+---
+
+background-image: url(https://www.estuaryedges.co.uk/wp-content/themes/estuary-edges/assets/src/img/thames-estuary-partnership-logo.png)
+background-size: 100px
+background-position: 95% 5%
+
+### Table of contents
+
+<h7 style=font-size:83%;>
+
+* [How to navigate this presentation](https://thamesestuarypartnership.github.io/roadmap/slides.html#4)
+
+* [Introduction](https://thamesestuarypartnership.github.io/roadmap/slides.html#5)
+
+* [Methodology](https://thamesestuarypartnership.github.io/roadmap/slides.html#9)
+
+* [The Roadmap Method](https://thamesestuarypartnership.github.io/roadmap/slides.html#13)
+
+* [Fish Migration Vision](https://thamesestuarypartnership.github.io/roadmap/slides.html#15)
+
+* [Next steps](https://thamesestuarypartnership.github.io/roadmap/slides.html#16)
+
+<style>
+h1 {
+  color: #003462;
+}
+<style>
+
+---
+
+background-image: url(https://www.estuaryedges.co.uk/wp-content/themes/estuary-edges/assets/src/img/thames-estuary-partnership-logo.png)
+background-size: 100px
+background-position: 95% 5%
+
+### How to navigate this presentation
+
+* Move forward with space bar or right/down arrow
+
+* Move backward with left/up arrow
+
+* Press `F` to go full screen and back
+
+* Press `Home` for first slide, `End` for last slide
+
+* The clickable hyperlinks are highlighted in blue
+
+* Interact with the graphs and data tables using the mouse/cursor
+
+* Press `H` to see all the navigation options
+
+<style>
+h1, h2, h3, h4, p {
+  color: #003462;
+}
+<style>
+
+---
+
+background-image: url(https://raw.githubusercontent.com/ThamesEstuaryPartnership/roadmap/main/img/1.png)
+background-size: cover
+.text[© Johannes Plenio]
+
+<style>
+.text {
+    color: #ffffff;
+    position: fixed;
+    top: 96%;
+    left: 2%;
+    text-align: left;
+    width: 100%;
+    font-size:50%;
+}
+<style>
+
+---
+
+class: center, middle, inverse
+
+# Introduction
+
+<style>
+h1, h2, h3, h4, p {
+  color: #003462;
+}
+<style>
+
+---
+
+background-image: url(https://www.estuaryedges.co.uk/wp-content/themes/estuary-edges/assets/src/img/thames-estuary-partnership-logo.png)
+background-size: 100px
+background-position: 95% 5%
+
+### Introduction
+
+Rivers play an important role in our environment: regulating floods, transporting sediments, and supporting biodiversity. Many of these services performed by rivers are also linked to factors that indicate river health, such as river flow and connectivity. River network connectivity influences species migration, diversity, and habitat occupancy.
+
+Rivers in the North Sea region are some of the most fragmented by human development in the world. Artificial structures, like weirs, sluices and locks, installed for water management purposes on rivers can be found at almost every kilometre. These barriers can significantly delay and hinder the movement of migratory fish species, subsequently reducing their diversity and abundance. 
+
+Diadromous fish species such as the European eel (*Anguilla anguilla*), sea bass (*Dicentrarchus labrax*), sea lamprey (*Petromyzon marinus*) and flounder (*Platichthys flesus*) move large distances between marine and freshwater environments and thus maintaining connectivity is important to sustain their healthy and diverse population. 
+
+<style>
+h1, h2, h3, h4, p {
+  color: #003462;
+}
+<style>
+
+---
+
+background-image: url(https://www.estuaryedges.co.uk/wp-content/themes/estuary-edges/assets/src/img/thames-estuary-partnership-logo.png)
+background-size: 100px
+background-position: 95% 5%
+
+### Introduction
+
+To address the issue of river fragmentation and fish passage, [Thames Estuary Partnership](https://www.thamesestuarypartnership.org/) (TEP) and Nature at Work (NAW) launched the [Greater Thames Estuary Fish Migration Roadmap](https://fishroadmap.london/) project in January 2018. 
+
+The project seeks to bring together all barrier, pass, priority, and habitat location data in one place and develop a ‘whole system’, sea-to-source approach that, similarly to an underground or road network, looks at rivers as interconnected migratory routes. 
+
+By considering and identifying rivers as 'Highways', 'A-roads' and 'B-roads', barrier locations and river network connectivity can be easily visualised on one or more rivers, or in entire catchments. This can help reprioritise barriers and provide a blueprint of strategic steps that can help open up entire migratory routes.
+
+<style>
+h1, h2, h3, h4, p {
+  color: #003462;
+}
+<style>
+
+---
+
+background-image: url(https://raw.githubusercontent.com/ThamesEstuaryPartnership/roadmap/main/img/Roadmap_TEP.gif)
+background-size: contain
+
+---
+
+background-image: url(https://www.estuaryedges.co.uk/wp-content/themes/estuary-edges/assets/src/img/thames-estuary-partnership-logo.png)
+background-size: 100px
+background-position: 95% 5%
+
+### Methodology
+
+The Fish Migration Roadmap project had three objectives: 
+
+* To gather information on fish migratory barriers and river connectivity within the Thames River Basin.
+
+* To develop an online, easy-to-access and easy-to-use GIS platform visualising all relevant data.
+
+* To develop a replicable, strategic roadmap method which also includes the Fish Migration Vision. 
+
+
+These objectives were executed via the following processes: 
+* Data science
+    
+    * Designation of project area
+    * Data collection
+    * Data pre-processing and merging
+    * Data analysis
+    * Data visualisation
+    
+* Stakeholder and community engagement
+
+
+
+<style>
+h1, h2, h3, h4, h5, h6, ul, li, p {
+  color: #003462;
+}
+<style>
+
+---
+
+background-image: url(https://www.estuaryedges.co.uk/wp-content/themes/estuary-edges/assets/src/img/thames-estuary-partnership-logo.png)
+background-size: 100px
+background-position: 95% 5%
+
+### Methodology
+
+* Data science
+    
+    * Designation of project area
+    
+    The project area was defined within the Thames River Basin and two adjacent catchments. The boundary on the migratory routes was drawn at 30km from the tidal limit. 
+    
+    * Data collection
+    
+    Data was collected from: [AMBER](https://amber.international/), [Catchment Based Approach](https://data.catchmentbasedapproach.org/), [Environment Agency](https://www.gov.uk/government/organisations/environment-agency), [River Obs app](https://www.river-obstacles.org.uk/), [Zoological Society of London](https://www.zsl.org/), [London Wildlife Trust](https://www.wildlondon.org.uk/), [South East Rivers Trust](https://www.southeastriverstrust.org/) and [Canal and River Trust](https://canalrivertrust.org.uk/).
+    
+    * Data pre-processing and merging
+    
+    The different datasets were merged together using a 100 metres buffer zone to concentrate on those barriers that occurred on the migratory routes only. The source of the dataset was kept in the finalised barrier dataset.
+
+<style>
+h1, h2, h3, h4, h5, h6, ul, li, p {
+  color: #003462;
+}
+<style>
+
+---
+
+background-image: url(https://www.estuaryedges.co.uk/wp-content/themes/estuary-edges/assets/src/img/thames-estuary-partnership-logo.png)
+background-size: 100px
+background-position: 95% 5%
+
+### Methodology
+
+* Data science
+    
+    * Data analysis
+      * Calculation the river connectivity index (RCI)
+      * Creation of connectivity maps
+      * Integration of river habitat data into the final barrier dataset by calculating the mode average on each river fragment
+      * Introduction of 'Category' variable. 
+    
+    * Data visualisation
+    
+      An online, easy-to-use [platform](https://tep-thames.maps.arcgis.com/apps/opsdashboard/index.html#/ab29e560d0834593bc71f7bf18dbc0d4) was developed where barrier locations and upstream river connectivity is visualised. The map also has an important filter function which allows the barrier data to be filtered based on barrier type, priority, pass type, river, category, and upstream river habitat. This can help stakeholders to develop a more target approach when it comes to barrier works to improve river connectivity whilst targeting habitat priority areas. 
+      
+
+<style>
+h1, h2, h3, h4, h5, h6, ul, li, p {
+  color: #003462;
+}
+<style>
+
+---
+
+background-image: url(https://www.estuaryedges.co.uk/wp-content/themes/estuary-edges/assets/src/img/thames-estuary-partnership-logo.png)
+background-size: 100px
+background-position: 95% 5%
+
+### Methodology
+
+* Stakeholder and community engagement
+
+Stakeholder and communtiy engagement was carried out predominantly in the Combined Essex Catchment. 
+
+Over a series of engagements the methodology could be developed and refined.
+
+In the meantime, an interactive [Roadmap](https://thamesestuarypartnership.github.io/essex/roadmap.html) was developed specifically for this catchment. 
+
+
+<style>
+h1, h2, h3, h4, h5, h6, ul, li, p {
+  color: #003462;
+}
+<style>
+
+---
+
+background-image: url(https://www.estuaryedges.co.uk/wp-content/themes/estuary-edges/assets/src/img/thames-estuary-partnership-logo.png)
+background-size: 100px
+background-position: 95% 5%
+
+### The Roadmap Method
+
+<center>
+  <img src="https://raw.githubusercontent.com/ThamesEstuaryPartnership/roadmap/main/img/The%20roadmap%20method.jpg" height="450" width="700">
+  </center>
+
+
+
+<style>
+h1, h2, h3, h4, h5, h6, ul, li, p {
+  color: #003462;
+}
+<style>
+
+---
+
+background-image: url(https://www.estuaryedges.co.uk/wp-content/themes/estuary-edges/assets/src/img/thames-estuary-partnership-logo.png)
+background-size: 100px
+background-position: 95% 5%
+
+### The Roadmap Method
+
+The most important steps of The Roadmap Method are: 
+
+* The introduction of the ‘Category’ variable that can help the barrier reprioritisation process.
+
+* Calculation of RCI (%) and visualisation of river connectivity that can help highlight the level of river connectivity.
+
+* Stakeholder engagement that can help gather local knowledge and understand local needs. This can subsequently lead to the development the Fish Migration Vision. 
+
+* Coupled with the stakeholder engagment, the barrier reprioritisation can help pinpoint priority barrier locations, for example, closed river segments with diverse habitat. 
+
+
+<style>
+h1, h2, h3, h4, h5, h6, ul, li, p {
+  color: #003462;
+}
+<style>
+
+---
+
+background-image: url(https://www.estuaryedges.co.uk/wp-content/themes/estuary-edges/assets/src/img/thames-estuary-partnership-logo.png)
+background-size: 100px
+background-position: 95% 5%
+
+### Fish Migration Vision
+
+The Fish Migration Vision is a shared, ambitious long-term goal envisaging what a healthy river and connected river corridor could be with collective action across sector initiatives e.g. catchment management, flood asset management and land development. 
+
+The Vision contains key messages, a characterisation of the catchment through a connectivity lens and a description of the prioritised areas for short term action. 
+
+It is also a useful engagement tool to deepen understanding of the need to improve our river corridors, restore habitat, helping prioritise migration barriers and pull in other benefits to accelerate action for this shared goal. 
+
+The Vision can also bring to life the story of a fish’s journey from sea to source and within a river system to enthuse other less engaged sectors and the public for whom underwater life is hidden.
+
+
+<style>
+h1, h2, h3, h4, h5, h6, ul, li, p {
+  color: #003462;
+}
+<style>
+
+---
+
+background-image: url(https://www.estuaryedges.co.uk/wp-content/themes/estuary-edges/assets/src/img/thames-estuary-partnership-logo.png)
+background-size: 100px
+background-position: 95% 5%
+
+### Next steps
+
+Further project plans include: 
+
+* Inclusion of additional waterways as ‘C-roads’ and ‘D-roads'.
+
+* Collation and creation of Roadmap specific fish database in each river. 
+
+* Further stakeholder engagamen and linking into other local plans and strategies.
+
+
+<style>
+h1, h2, h3, h4, h5, h6, ul, li, p {
+  color: #003462;
+}
+<style>
+
+---
+
+background-image: url(https://i.stack.imgur.com/bUpIh.png),url(https://ulyngs.github.io/rmarkdown-workshop-2019/slides/figures/rmarkdown.png)
+background-size: 50px, 50px
+background-position: 46% 65%, 54% 65%
+class: center, middle, inverse
+.footer[Copyright © 2020 Thames Estuary Partnership]
+
+
+<a href="https://www.thamesestuarypartnership.org/">Thames Estuary Partnership</a>
+<br>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<p style="text-align: center;">
+    <a href="mailto:w.bodnar@ucl.ac.uk" class="fa fa-envelope"></a>
+    <a href="https://twitter.com/ThamesEstPart" class="fa fa-twitter"></a>   
+    <a href="https://www.linkedin.com/company/thames-estuary-partnership/?viewAsMember=true" class="fa fa-linkedin"></a>   
+    <a href="https://www.instagram.com/thamesestuarypartnership/" class="fa fa-instagram"></a>   
+    <a href="https://www.facebook.com/thamesestuarypartnership/" class="fa fa-facebook"></a>
+    </p>
+    
+###### Slides were prepared using R Studio's R Markdown
+<br>
+<style>
+.inverse h1, .inverse h2, .inverse h3, .inverse h4, .inverse h5, .inverse p {
+  color: #f3f3f3;
+}
+.inverse h6 {
+  color: #fff2f4;
+}
+a:link {
+  color: #019ed8;
+}
+a:visited {
+  color: #019ed8;
+}
+.footer {
+    color: #a5704a;
+    position: fixed;
+    top: 96%;
+    left: 0;
+    text-align: center;
+    width: 100%;
+    font-size:50%;
+}
+<style>

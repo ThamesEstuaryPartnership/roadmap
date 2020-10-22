@@ -100,8 +100,6 @@ background-position: 95% 5%
 
 * The clickable hyperlinks are highlighted in blue
 
-* Interact with the graphs and data tables using the mouse/cursor
-
 * Press `H` to see all the navigation options
 
 <style>
